@@ -20,7 +20,7 @@ export default function App(props) {
   return (
     <ThemeProvider>
       <View style={styles.container}>
-        <Heading>React Native for Web & Next.js</Heading>
+        <Heading>React Native for Web & Next.js {1_234_56}</Heading>
 
         <TextLink>A universal link</TextLink>
 
